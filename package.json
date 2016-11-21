@@ -1,0 +1,23 @@
+{
+  "name": "gulp_learning",
+  "version": "1.0.0",
+  "description": "learn gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Gulp-Learning"
+  },
+  "keywords": [
+    "learn",
+    "gulp"
+  ],
+  "author": "Argyll",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
